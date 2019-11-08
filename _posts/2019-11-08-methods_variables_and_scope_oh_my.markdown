@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Methods, variables, and scope oh my!"
-date:       2019-11-08 17:57:55 +0000
+date:       2019-11-08 12:57:56 -0500
 permalink:  methods_variables_and_scope_oh_my
 ---
 
